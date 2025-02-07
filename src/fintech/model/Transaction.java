@@ -25,7 +25,7 @@ public class Transaction {
     }
 
     public String tostring() {
-        return this.id + "|" + this.account_name + "|" + this.amount + "|" + this.date + "|" + this.noted + "|" + this.balance;
+        return this.id+1 + "|" + this.account_name + "|" + this.amount + "|" + this.date + "|" + this.noted + "|" + this.balance;
     }
 
 }

@@ -1,0 +1,2 @@
+mengetahui cara kerja object
+menambahkan id agar ditambahkan secara sekuensial

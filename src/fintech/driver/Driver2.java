@@ -24,7 +24,7 @@ public class Driver2 {
         String date = input.nextLine();
         String noted = input.nextLine();
         
-        int id = 1;
+        int id = 0;
         balance = balance + amount;
 
         Transaction new2 = new Transaction(id, account_name, amount, date, noted, balance);
